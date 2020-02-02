@@ -1,2 +1,2 @@
-# Java
-This site was built using [GitHub Pages](https://pages.github.com/).
+# Java folder
+Just trying some things in Java.
